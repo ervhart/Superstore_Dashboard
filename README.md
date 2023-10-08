@@ -1,4 +1,5 @@
 # Superstore_Dashboard
+Link to the interactive dashboard: https://app.powerbi.com/groups/me/reports/f2c3fdfd-12fb-4ab5-936c-337d468c3f0d/ReportSection?experience=power-bi
 
 The Global Superstore Dashboard provides a view of overall store sales performance. Strategic users can use it to quickly check KPIs with respect to different attributes. The dashboard provides actionable insights on sales by country, category, top and bottom eight product names, and ship mode. 
 Its users can view both high-level and detailed analyses of information on a single-screen display.
